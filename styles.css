@@ -1,0 +1,19 @@
+/*****************TAG SELESTORS*****************/
+body {
+  background-color: #dee3e2;
+}
+hr {
+  background-color: none;
+  border-style: dotted none none;
+  border-color: grey;
+  border-width: 10px;
+  width: 30%;
+
+}
+h1 {
+  color: #b83b5e;
+}
+ h3{
+   color:#f38181;
+ }
+/*****************CLASS SELECTORS *****************/
